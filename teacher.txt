@@ -1,0 +1,4 @@
+1,Bhargavi,python
+2,vasu,AI
+3,Pushpa,Java7,Sujatha,English B
+16,Aruna,History A
